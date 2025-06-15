@@ -23,7 +23,6 @@ A real-time air quality monitoring system using NodeMCU ESP8266, MQ135, DHT11, a
 - Real-time air quality, temperature, and humidity monitoring  
 - LCD display via I2C interface  
 - Developed using Arduino IDE  
-- Wi-Fi enabled microcontroller (ESP8266) for future IoT expansion  
 
 ---
 
@@ -38,16 +37,19 @@ A real-time air quality monitoring system using NodeMCU ESP8266, MQ135, DHT11, a
 
 ## 🛠️ Setup & Instructions
 
-1. Connect components as per your circuit.  
+1. Connect components as per the circuit.  
 2. Open `air_quality_monitor.ino` in Arduino IDE.  
 3. Install required libraries:
     - `Adafruit Unified Sensor`
     - `DHT sensor library`
     - `LiquidCrystal_I2C`
 4. Select **NodeMCU 1.0 (ESP-12E Module)** and correct COM port.  
-5. Upload code and power the system.  
+
 
 ---
+
+## Circuit Diagram
+> ![Circuit](Air-Quality-monitoring/Schematic-Diag.png)
 
 ## 📷 Images 
  
@@ -55,10 +57,6 @@ A real-time air quality monitoring system using NodeMCU ESP8266, MQ135, DHT11, a
 > > ![Project Image](Air-Quality-monitoring/airQ2.jpg)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
