@@ -49,11 +49,10 @@ A real-time air quality monitoring system using NodeMCU ESP8266, MQ135, DHT11, a
 
 ---
 
-## 📷 Images / Circuit Diagram
-
-> *(Insert circuit diagram or project image here)*  
-> Example:  
-> ![Project Image](images/project.jpg)
+## 📷 Images 
+ 
+> ![Project Image](Air-Quality-monitoring/AirQ.jpg)
+> > ![Project Image](Air-Quality-monitoring/AirQ.jpg)
 
 ---
 
